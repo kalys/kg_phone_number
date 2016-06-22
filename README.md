@@ -1,4 +1,4 @@
-# KgPhoneNumber
+# kg_phone_number
 
 ## Usage
 
@@ -13,7 +13,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'KgPhoneNumber'
+gem 'kg_phone_number'
 ```
 
 And then execute:
@@ -22,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install KgPhoneNumber
+    $ gem install kg_phone_number
 
 ## Development
 
